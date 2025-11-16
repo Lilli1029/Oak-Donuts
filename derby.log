@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Nov 16 17:10:55 EST 2025:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance a816c00e-019a-8eb8-9e52-00000f2ee810 
+on database directory /Users/lisab/DerbyDatabase/DonutShop with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@14dad5dc 
+Loaded from file:/Users/lisab/Downloads/db-derby-10.15.2.0-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=25.0.1+8-27
+user.dir=/Users/lisab/IdeaProjects/CMPSC 221 Assignment/Donut Shop/Oakes Donut Shop
+os.name=Mac OS X
+os.arch=aarch64
+os.version=15.6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

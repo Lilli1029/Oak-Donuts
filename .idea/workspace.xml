@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9d1c493a-aad5-492e-a975-509890608022" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/oakDonuts/ActualMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oakDonuts/Calculations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oakDonuts/CartItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oakDonuts/DB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oakDonuts/DatabaseSetup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oakDonuts/MenuDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oakDonuts/MenuItems.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oakDonuts/MenuItemsSeeder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oakDonuts/OakDonutsUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oakDonuts/OrderDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oakDonuts/OrderHistoryWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oakDonuts/OrderRow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oakDonuts/OrderSummary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oakDonuts/PastelButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oakDonuts/PastelTheme.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="35X6P555yq2mZeJhedPrVMx0tOr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ActualMain.executor": "Run",
+    "Application.DatabaseSetup.executor": "Run",
+    "Application.DerbyTest.executor": "Run",
+    "Application.InsertMenuItems.executor": "Run",
+    "Application.MenuItems.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "/Users/lisab/IdeaProjects/CMPSC 221 Assignment/Donut Shop/Oakes Donut Shop/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.26830.84" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d1c493a-aad5-492e-a975-509890608022" name="Changes" comment="" />
+      <created>1763244042874</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1763244042874</updated>
+      <workItem from="1763244044765" duration="9000" />
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/oakDonuts/MenuItems.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
